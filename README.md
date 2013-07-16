@@ -1,4 +1,5 @@
-lpic-101
+LPIC 1 Summary
 ========
 
-for wiki
+* For exam studying purposes
+* Used for wiki (https://github.com/skogler/lpic-101/wiki)
